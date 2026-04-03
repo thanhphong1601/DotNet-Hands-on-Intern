@@ -1,0 +1,4 @@
+Đọc file csv danh sách tất cả sinh viên gồm: tên, lớp, giới tính, score 10 môn học
+Gồm các schema lưu cách tính grade từng lớp/khối. Gọi schemas api để lấy tt so sánh và cho ra grade các học sinh
+Chạy 1 api để tạo file report. Mỗi file là 1 lớp, gồm tt: Tên hs, giới tính hs, grade hs
+File report cuối là tổng hợp các thông tin trên của mỗi report, có dạng: Lớp {} gồm {n} học sinh có grade {grade}

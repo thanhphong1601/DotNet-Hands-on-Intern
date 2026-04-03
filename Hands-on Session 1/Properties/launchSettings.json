@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Hands-on Session 1": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61130;http://localhost:61131"
+    }
+  }
+}
