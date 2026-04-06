@@ -1,0 +1,27 @@
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.staticwebassets.endpoints.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.exe
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.deps.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.runtimeconfig.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.dll
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\bin\Debug\net10.0\Hands-on Session 1.pdb
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.AssemblyInfoInputs.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.AssemblyInfo.cs
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.csproj.CoreCompileInputs.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\scopedcss\bundle\Hands-on Session 1.styles.css
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.dll
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\refint\Hands-on Session 1.dll
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.pdb
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\Hands-on Session 1.genruntimeconfig.cache
+C:\Users\phong.nguyen2\OneDrive - Orient\Desktop\Mock Project\Hands-on Session 1\Hands-on Session 1\obj\Debug\net10.0\ref\Hands-on Session 1.dll
