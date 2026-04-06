@@ -2,7 +2,13 @@
 GET http://localhost:5000/api/grade-schema/12
 
 ###
+GET http://localhost:5000/api/grade-schema
+
+###
 GET http://localhost:5000/api/students
+
+###
+GET http://localhost:5000/api/students/stream
 
 ###
 POST http://localhost:5000/api/report
@@ -11,6 +17,9 @@ Content-Type: application/json
 ###
 POST http://localhost:5000/api/report/all
 Content-Type: application/json
+
+###
+GET http://localhost:5000/api/data-generator
 
 ###
 GET http://localhost:5000/test
